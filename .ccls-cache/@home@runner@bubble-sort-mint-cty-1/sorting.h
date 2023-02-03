@@ -10,21 +10,6 @@ void display(int a[],int n){
   
 }
 
-void selectionSort(int data[], int length) 
-{ 
-	int i, j, m, mi; 
-	
-     display(data,length);
-     
-	
-} 
-
-
-
-void insertion(int a[],int n){
-
-
-}
 
 void swap(int *a,int *b){
  int temp;
@@ -52,5 +37,4 @@ for(i = 0; i<n-1; i++){
   if(sorted==0) break;
 }
   }
-
 
